@@ -25,11 +25,11 @@ pip is no longer supported in Python < 3.6. The following command install pip in
     python get-pip.py  
     python -m pip install --upgrade "pip < 21.0"
 
-For Python 2.6, install from https://bootstrap.pypa.io/pip/2.6/
-For Python 3.2, install from https://bootstrap.pypa.io/pip/3.2/
-For Python 3.3, install from https://bootstrap.pypa.io/pip/3.3/
-For Python 3.4, install from https://bootstrap.pypa.io/pip/3.4/
-For Python 3.5, install from https://bootstrap.pypa.io/pip/3.5/ 
+For Python 2.6, install from https://bootstrap.pypa.io/pip/2.6/ <br>
+For Python 3.2, install from https://bootstrap.pypa.io/pip/3.2/ <br>
+For Python 3.3, install from https://bootstrap.pypa.io/pip/3.3/ <br>
+For Python 3.4, install from https://bootstrap.pypa.io/pip/3.4/ <br>
+For Python 3.5, install from https://bootstrap.pypa.io/pip/3.5/ <br>
 
 Upgrade command for Python 3.4 is:
 
